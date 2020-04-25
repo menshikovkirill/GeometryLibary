@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Geometry1\FigureLibary\bin\Debug\FigureLibary.dll
+C:\Users\User\Desktop\Geometry1\FigureLibary\bin\Debug\FigureLibary.pdb
+C:\Users\User\Desktop\Geometry1\FigureLibary\obj\Debug\FigureLibary.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Geometry1\FigureLibary\obj\Debug\FigureLibary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Geometry1\FigureLibary\obj\Debug\FigureLibary.dll
+C:\Users\User\Desktop\Geometry1\FigureLibary\obj\Debug\FigureLibary.pdb

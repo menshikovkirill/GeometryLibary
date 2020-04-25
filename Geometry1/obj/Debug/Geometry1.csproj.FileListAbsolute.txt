@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Geometry1\Geometry1\bin\Debug\Geometry1.exe.config
+C:\Users\User\Desktop\Geometry1\Geometry1\bin\Debug\Geometry1.exe
+C:\Users\User\Desktop\Geometry1\Geometry1\bin\Debug\Geometry1.pdb
+C:\Users\User\Desktop\Geometry1\Geometry1\obj\Debug\Geometry1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Geometry1\Geometry1\obj\Debug\Geometry1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Geometry1\Geometry1\obj\Debug\Geometry1.exe
+C:\Users\User\Desktop\Geometry1\Geometry1\obj\Debug\Geometry1.pdb
+C:\Users\User\Desktop\Geometry1\Geometry1\bin\Debug\FigureLibary.dll
+C:\Users\User\Desktop\Geometry1\Geometry1\bin\Debug\FigureLibary.pdb
+C:\Users\User\Desktop\Geometry1\Geometry1\obj\Debug\Geometry1.csproj.CopyComplete
