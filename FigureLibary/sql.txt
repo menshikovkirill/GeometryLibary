@@ -1,0 +1,1 @@
+SELECT items.id, items.name as item_name, catalogs1.name as catalog_name1 FROM items LEFT JOIN catalogs1 ON catalogs1.id = items.id_catalog
